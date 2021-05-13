@@ -1,5 +1,5 @@
 var url = window.location.href;
-var swLoc = '/sw.js';
+var swLoc = '/ferran/sw.js';
 
 if ( navigator.serviceWorker ){
 
