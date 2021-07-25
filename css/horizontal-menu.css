@@ -12,21 +12,21 @@ ol,ul {
 #mainMenu li {
 	display:block;
 	width:60px;
-	height:30px;
+	height:15px;
 	float:left;
 	margin-left:1px;
-	border:1px solid #000;
+	border:0px;
 }
 
 #mainMenu a {
 	display:block;
 	padding:0px;
 	text-decoration:none;
-	background-color:#fff;
-	color:#009;
+	background-color:#002856;
+	color:#fff;
 }
 
 #mainMenu a:hover {
-	background-color:#009;
-	color:#fff;
+	background-color:#fff;
+	color:#002856;
 }
